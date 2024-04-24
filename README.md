@@ -24,7 +24,7 @@ https://qiita.com/asato4931/items/98598e108d8bdc27a0f7#comment-6905ab00d8a71220f
 
 ## その他スクリーンショット
 
-![image](https://github.com/Asato4931/Steakhouse-Cardinal-TS-GithubPages/assets/108675293/9d6e228c-38ca-4c07-acf4-62e118548705)
+![image](https://github.com/Asato4931/Steakhouse-Cardinal-TS-GithubPages/assets/108675293/f078ef4b-381a-4469-bb4d-9a9722a57c24)
 
 
 ![image](https://github.com/Asato4931/Steakhouse-Cardinal-TS-GithubPages/assets/108675293/00f698e8-b27b-4183-b8e9-15e3fb4d331b)
