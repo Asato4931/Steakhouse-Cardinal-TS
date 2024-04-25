@@ -8,15 +8,15 @@ ChatGPT/DALL-Eに生成して貰った画像やロゴを元に、架空のレス
 ## デモURL
 https://asato4931.github.io/Steakhouse-Cardinal-TS-GithubPages/
 
-## 背景や、気を付けたポイント
+## 詳細記事
 https://qiita.com/asato4931/items/98598e108d8bdc27a0f7#comment-6905ab00d8a71220fe5a
 
 
-## 主な使用技術
+## 動作環境
 <ul>
   <li>React: 18.2.0</li>
   <li>TypeScript: 4.9.5</li>
-  <li>Vivus.js: 0.4.6</li>
+  <li>Vivus.js: 0.4.6 (@types/vivus)も必要</li>
   <li>React-Bootstrap: 2.10.2</li>
   <li>Bootstrap: 5.3.3</li>
   <li>Animate.css: 4.1.1</li>
